@@ -1,0 +1,2 @@
+# What's new in v2.0.0
+- Introducing configurations! You can now create a folder named `configuration` and put a `settings.json` file inside of it, and that will be used for meta tags, a new navigation bar, favicon, and title globally for all pages.
